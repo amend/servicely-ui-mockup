@@ -12,6 +12,8 @@
 		9083B3BD1F86D68F0079E309 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9083B3BB1F86D68F0079E309 /* Main.storyboard */; };
 		9083B3BF1F86D68F0079E309 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9083B3BE1F86D68F0079E309 /* Assets.xcassets */; };
 		9083B3C21F86D68F0079E309 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9083B3C01F86D68F0079E309 /* LaunchScreen.storyboard */; };
+		9083B3CD1F86DD930079E309 /* google-login-button.png in Resources */ = {isa = PBXBuildFile; fileRef = 9083B3CC1F86DD930079E309 /* google-login-button.png */; };
+		9083B3CF1F86DD9C0079E309 /* facebook-login-button.png in Resources */ = {isa = PBXBuildFile; fileRef = 9083B3CE1F86DD9C0079E309 /* facebook-login-button.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		9083B3BE1F86D68F0079E309 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9083B3C11F86D68F0079E309 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9083B3C31F86D68F0079E309 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9083B3CC1F86DD930079E309 /* google-login-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "google-login-button.png"; sourceTree = "<group>"; };
+		9083B3CE1F86DD9C0079E309 /* facebook-login-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebook-login-button.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +64,18 @@
 				9083B3BE1F86D68F0079E309 /* Assets.xcassets */,
 				9083B3C01F86D68F0079E309 /* LaunchScreen.storyboard */,
 				9083B3C31F86D68F0079E309 /* Info.plist */,
+				9083B3C91F86DD0B0079E309 /* images */,
 			);
 			path = "servicely-ui-mockup";
+			sourceTree = "<group>";
+		};
+		9083B3C91F86DD0B0079E309 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9083B3CE1F86DD9C0079E309 /* facebook-login-button.png */,
+				9083B3CC1F86DD930079E309 /* google-login-button.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +137,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9083B3CF1F86DD9C0079E309 /* facebook-login-button.png in Resources */,
 				9083B3C21F86D68F0079E309 /* LaunchScreen.storyboard in Resources */,
 				9083B3BF1F86D68F0079E309 /* Assets.xcassets in Resources */,
+				9083B3CD1F86DD930079E309 /* google-login-button.png in Resources */,
 				9083B3BD1F86D68F0079E309 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
