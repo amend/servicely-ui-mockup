@@ -61,8 +61,8 @@
 				9083B3B71F86D68F0079E309 /* AppDelegate.swift */,
 				9083B3B91F86D68F0079E309 /* ViewController.swift */,
 				9083B3BB1F86D68F0079E309 /* Main.storyboard */,
-				9083B3BE1F86D68F0079E309 /* Assets.xcassets */,
 				9083B3C01F86D68F0079E309 /* LaunchScreen.storyboard */,
+				9083B3BE1F86D68F0079E309 /* Assets.xcassets */,
 				9083B3C31F86D68F0079E309 /* Info.plist */,
 				9083B3C91F86DD0B0079E309 /* images */,
 			);
