@@ -439,9 +439,7 @@
                             <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                             <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                             <items>
-                                <navigationItem title="Feed " id="4Pj-SX-wea">
-                                    <barButtonItem key="rightBarButtonItem" enabled="NO" title="Messages" id="Me1-ia-LJI"/>
-                                </navigationItem>
+                                <navigationItem title="Feed " id="4Pj-SX-wea"/>
                             </items>
                         </navigationBar>
                         <tabBar key="tableFooterView" contentMode="scaleToFill" id="cMS-cX-oeS">
@@ -726,7 +724,7 @@
                                 <items>
                                     <navigationItem title="Private Chefs Inc." id="ApE-Jf-B7q">
                                         <barButtonItem key="leftBarButtonItem" style="plain" id="rKZ-F2-wc0">
-                                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="1Ey-Ho-doN">
+                                            <button key="customView" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="1Ey-Ho-doN">
                                                 <rect key="frame" x="16" y="7" width="34" height="30"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <state key="normal" title="Back">
@@ -1422,7 +1420,7 @@
                                 <items>
                                     <navigationItem title="Client Profile - Sign Up" id="sBr-6v-v3b">
                                         <barButtonItem key="leftBarButtonItem" style="plain" id="WJN-xA-qEe">
-                                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Rgc-To-tvb">
+                                            <button key="customView" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Rgc-To-tvb">
                                                 <rect key="frame" x="16" y="7" width="34" height="30"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <state key="normal" title="Back"/>
